@@ -1,0 +1,13 @@
+[
+    {
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "me.wolszon.reddigram",
+            "sha256_cert_fingerprints": [
+                "3F:43:DA:FB:C0:CD:7B:D4:95:35:21:50:DE:D4:4D:E6:B7:20:E4:C4:F1:53:98:DE:4D:0C:91:AA:88:D0:EE:5B",
+                "18:EC:18:98:2F:B3:04:D8:9F:41:AC:8C:FF:66:3A:47:96:72:6B:C0:CA:4F:FF:A8:87:90:D2:FA:12:6C:AE:3E"
+            ]
+        }
+    }
+]
